@@ -6,5 +6,5 @@
   <p>
     <pre><code>&lt;div&nbsp;class=&quot;ribbon-gallery&quot;&gt;
     &nbsp;&nbsp;&lt;img&nbsp;src=&quot;image.jpg&quot;&nbsp;alt=&quot;placeholder&quot;&gt;
-    &lt;&#47;div&gt;</code></pre>
+&lt;&#47;div&gt;</code></pre>
   </p>
