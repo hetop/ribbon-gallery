@@ -4,5 +4,7 @@
       Add a <i>div</i> or a <i>span</i> with a <i>class <b>ribbon-gallery</b></i>
   </p>
   <p>
-    <pre><code>&lt;div&nbsp;class=&quot;ribbon-gallery&quot;&gt;<br/>&nbsp;&nbsp;&lt;img&nbsp;src=&quot;http:&#47;&#47;via.placeholder.com&#47;1280x720&quot;&nbsp;alt=&quot;placeholder&quot;&gt;<br/>&nbsp;&nbsp;&lt;img&nbsp;src=&quot;http:&#47;&#47;via.placeholder.com&#47;1280x720&quot;&nbsp;alt=&quot;placeholder&quot;&gt;<br/>&nbsp;&nbsp;&lt;img&nbsp;src=&quot;http:&#47;&#47;via.placeholder.com&#47;1280x720&quot;&nbsp;alt=&quot;placeholder&quot;&gt;<br/>&nbsp;&nbsp;&lt;img&nbsp;src=&quot;http:&#47;&#47;via.placeholder.com&#47;1280x720&quot;&nbsp;alt=&quot;placeholder&quot;&gt;<br/>&lt;&#47;div&gt;</code></pre>
+    <pre><code>&lt;div&nbsp;class=&quot;ribbon-gallery&quot;&gt;
+    &nbsp;&nbsp;&lt;img&nbsp;src=&quot;image.jpg&quot;&nbsp;alt=&quot;placeholder&quot;&gt;
+    &lt;&#47;div&gt;</code></pre>
   </p>
