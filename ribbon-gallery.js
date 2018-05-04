@@ -5,7 +5,7 @@ $(document).ready(function () {
     var src = img.attr('src');
     $("body").append("<div class='substrate'>" +
       "<div class='substrate-bg'></div>" +
-      "<img src=" + src + " class='substrate-img' />" + //
+      "<img src=" + src + " class='substrate-img' />" +
       "</div>");
     $(".substrate").fadeIn(300);
     $(".substrate-bg,.substrate-img").click(function () {
